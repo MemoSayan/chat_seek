@@ -1,0 +1,1 @@
+const deepSeekApi = 'http://localhost:1234';
