@@ -14,7 +14,7 @@ A Flutter-based chat application that allows users to interact with a chatbot. T
 - **Error handling**: Robust error handling for network and server errors.
 - **API integration**: Connects to a backend API for chatbot responses.
 
-### **Prerequisites**
+## **Prerequisites**
 
 Before you begin, ensure you have the following installed:
 
@@ -22,6 +22,21 @@ Before you begin, ensure you have the following installed:
 - [Dart](https://dart.dev/get-dart) (version 2.17 or higher)
 - An IDE (e.g., [Android Studio](https://developer.android.com/studio), [VS Code](https://code.visualstudio.com/))
 
+Additionally, you'll need to install **LM Studio** and download the **DeepSeek-R1-Distill-Qwen-7B** model. Follow these steps:
+
+1. **Install LM Studio**:
+   - Visit the [LM Studio website](https://lmstudio.ai/) and download the latest version for your operating system.
+   - Follow the installation instructions provided on the site.
+
+2. **Download the DeepSeek-R1-Distill-Qwen-7B Model**:
+   - Open LM Studio and navigate to the "Discover" tab.
+   - Search for the **DeepSeek-R1-Distill-Qwen-7B** model.
+   - Click "Download" to add the model to your system.
+
+
+For a detailed, step-by-step guide on installing and using LM Studio, you can refer to the following video:
+
+[How to Use LM Studio: A Step-by-Step Guide](https://www.youtube.com/watch?v=9zbFzVXSywg)
 
 
 
