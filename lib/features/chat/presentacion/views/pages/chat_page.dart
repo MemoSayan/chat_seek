@@ -87,7 +87,7 @@ class _ChatPageState extends State<ChatPage> {
               Text(
                 errorMessage,
                 textAlign: TextAlign.center,
-                style: TextStyle(fontSize: 16),
+                style: const TextStyle(fontSize: 16),
               ),
               const SizedBox(height: 16),
               ElevatedButton(
